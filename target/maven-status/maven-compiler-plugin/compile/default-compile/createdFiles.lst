@@ -1,3 +1,4 @@
-com\oficina\domain\Placa.class
 com\oficina\domain\Telefone.class
+com\oficina\domain\Placa.class
+com\oficina\domain\Veiculo.class
 com\oficina\domain\Dinheiro.class

@@ -1,6 +1,6 @@
 package com.oficina.domain;
 
-public class StatusOS {
+public enum StatusOS {
       AGUARDANDO_ORCAMENTO,
       ORCAMENTO_ENVIADO,
       APROVADO,

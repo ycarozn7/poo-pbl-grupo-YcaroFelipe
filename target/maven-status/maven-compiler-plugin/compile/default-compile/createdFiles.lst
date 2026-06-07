@@ -1,4 +1,7 @@
+com\oficina\domain\Cliente.class
 com\oficina\domain\Telefone.class
-com\oficina\domain\Placa.class
 com\oficina\domain\Veiculo.class
 com\oficina\domain\Dinheiro.class
+com\oficina\domain\ItemOrcamento.class
+com\oficina\domain\Placa.class
+com\oficina\domain\StatusOS.class

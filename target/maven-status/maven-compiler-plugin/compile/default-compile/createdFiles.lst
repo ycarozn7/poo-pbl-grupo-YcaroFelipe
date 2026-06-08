@@ -1,4 +1,5 @@
 com\oficina\domain\Cliente.class
+com\oficina\domain\OdemDeServicoRepository.class
 com\oficina\domain\Telefone.class
 com\oficina\domain\Orcamento.class
 com\oficina\domain\Veiculo.class
